@@ -1,6 +1,6 @@
 {
-    "name": "dipeshsukhia/laravel-html-minify",
-    "description": "laravel minify html output",
+    "name": "oscarpasache/laravel-html-minify",
+    "description": "Laravel minify html output | Laravel 8 Support",
     "keywords": [
         "dipeshsukhia",
         "laravel-html-minify"
